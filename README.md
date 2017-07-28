@@ -1,1 +1,4 @@
-# proyectoJS
+## Proyecto JavaScript
+Alexis Gualoto
+Fredy Enriquez
+
